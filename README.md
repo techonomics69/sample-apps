@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/livechat/sample-apps) 
+
 # Sample apps
 
 Sample apps will help you get familliar with the [LiveChat Rest API]((https://docs.livechatinc.com/rest-api/)) and [Agent App Widgets](https://docs.livechatinc.com/agent-app-widgets/).
